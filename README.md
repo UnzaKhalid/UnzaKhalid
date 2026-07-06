@@ -1,25 +1,19 @@
-# 👋 Salam, I'm Unza Maryam!
+# 👋 Salam, I'm Unza Khalid!
 
-Welcome to my digital vault! I am an ICS student, aspiring financial trader,  and tech enthusiast focused on automated systems and software development. 
+Welcome to my profile! I am an **ICS (Intermediate in Computer Science) student** who believes true education happens outside the textbook. While I handle my academic coursework, I'm actively building real-world tech projects to bridge the gap between theory and actual engineering.
+
+---
+
+### 🚀 What I Do
+
+* **⚡ Embedded Systems & Tech:** I love experimenting with hardware logic. I'm currently figuring out microcontrollers and digital logic circuits—like my recent 4-bit binary counter project—to learn how software drives physical components.
+* **📈 Financial Trading:** On the side, I  invested some money in learning market mechanics, technical analysis, and price action strategies. I manage my own brand, **UzVault**, where I track macroeconomic shifts and practice spot trading execution.
 
 ---
 
 
 ---
 
-### 🚀 What I'm Working On
-
-* **UzVault 📈** | Building a digital space dedicated to financial market analysis, spot trading concepts, and macroeconomic insights.
-* **Embedded Engineering ⚡** | Creating hardware prototypes like my recent 4-bit binary counter tracking logic operations in real-time.
-
----
-
-
-
-
-
----
-
-### 🤝 Connect with me
-* 💼 Trading & Content Brand: **UzVault**
-* 📍 Based in: Pakistan
+### 🤝 Let's Connect!
+* 🌐 Check out my repositories below to see my live code and hardware video demonstrations!
+* 📍 Based in Pakistan
