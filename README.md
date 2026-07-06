@@ -14,10 +14,9 @@ Welcome to my digital vault! I am an ICS student, aspiring financial trader,  an
 
 ---
 
-### 📊 My GitHub Stats
 
-<!-- This automatically updates with your profile activity over time! -->
-![Unza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnzaKhalid&show_icons=true&theme=tokyonight&count_private=true)
+
+
 
 ---
 
